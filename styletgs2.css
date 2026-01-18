@@ -1,0 +1,31 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(161, 163, 188);
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  border-radius: 6px;
+}
+
+button {
+  display: block;
+  padding: 8px 15px;
+  margin: 10px auto;
+  cursor: pointer;
+}
+
+#hasil {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
